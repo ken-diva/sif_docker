@@ -1,0 +1,24 @@
+.img-profile {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+}
+
+.table-profile {
+    width: 100%;
+}
+
+.table-profile th,
+td {
+    padding: 8px;
+    text-align: left;
+}
+
+.table-profile tr:hover {
+    color: white;
+    background-color: #194bca;
+}
+
+/* .apexcharts-tooltip-text-label {
+    display: none !important;
+} */
